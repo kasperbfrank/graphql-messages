@@ -6,5 +6,5 @@ by [Kasper Bruus Frank](https://kasperbfrank.dk)
 [Docker](https://www.docker.com/get-docker) and docker compose are required to run this project
 
 ```bash
-docker-compuse up
+docker-compose up
 ```
